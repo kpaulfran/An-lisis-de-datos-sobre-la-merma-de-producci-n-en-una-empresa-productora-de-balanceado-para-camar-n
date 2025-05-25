@@ -8,3 +8,8 @@ El trabajo describe la metodología y herramientas utilizadas para alcanzar los 
 Finalmente, se emplean algoritmos de aprendizaje no supervisado para agrupar ingredientes y productos con comportamientos similares, permitiendo ajustar los procesos y acciones derivadas de forma más precisa, y eficaz.
 
 ![image](https://github.com/user-attachments/assets/bf1cec18-7a90-46de-8f42-88aae967dcb5)
+
+![image](https://github.com/user-attachments/assets/b5512095-12d4-41ae-b732-c9cd8d4a2f37)
+
+
+
